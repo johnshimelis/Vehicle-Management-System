@@ -1,11 +1,12 @@
 # Vehicle Management Dashboard
 
-This is a full-stack Vehicle Management Dashboard built with React, Node.js, and MongoDB. It allows users to add, update, and delete vehicles, as well as manage their statuses.
+This is a full-stack Vehicle Management Dashboard built with React, Node.js, and MongoDB. It allows users to add and update vehicles, as well as manage their statuses.
+## Live Demo
+Check out a live demo of the project here: [Live Demo](https://vehiclemanagmentsystem.netlify.app/)
 
 ## Features
 - Add new vehicles with a default status of "Inactive."
 - Update vehicle status using a dropdown.
-- Delete vehicles from the list.
 - Real-time updates of vehicle statuses.
 
 ## Technologies Used
